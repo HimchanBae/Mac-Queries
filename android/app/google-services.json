@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158701041386",
+    "project_id": "macq-a58c9",
+    "storage_bucket": "macq-a58c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158701041386:android:1dbdcec979e22d5bac4993",
+        "android_client_info": {
+          "package_name": "com.example.mac_queries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdlGeZ8xTR4u7yIjoMBZzvHLGU9i0DC_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
